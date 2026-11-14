@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [ChatGPT Wallet: How OpenAI Is Enabling Secure Agentic Payments Without Exposing Card Details](articles/2026-11-14-chatgpt-wallet-agentic-payments-deep-dive.md)
+- [Nonprofits Sue Frontier AI Labs to Freeze Development of More Capable Systems](articles/2026-11-14-ai-development-freeze-lawsuit-analysis.md)
+- [OpenAI Folds Robotics Team Into Core Research as General Models Begin Controlling Robots](articles/2026-11-14-openai-robotics-general-models-and-optimus-context.md)
 - [llama.cpp 1.0.0: A Stable Foundation for Local AI Inference](articles/2026-11-14-llamacpp-1-0-0-stable-api.md)
 - [Cloudflare Reports 30x Surge in AI Penetration Testing Traffic After ARTEX Takedown](articles/2026-11-14-cloudflare-ai-pentest-surge.md)
 - [Meta’s Muse AI Now Places Phone Calls to US Businesses for Paid Subscribers](articles/2026-11-14-meta-muse-phone-calls.md)
