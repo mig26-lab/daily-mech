@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [LangChain Raises $300 Million at $3 Billion Valuation to Expand Agent Management Platform](articles/2026-11-13-langchain-series-c.md)
+- [SpaceX Outlines More Than $74 Billion in AI Supercomputing Campuses Across Texas and Arizona](articles/2026-11-13-spacex-ai-campuses.md)
+- [Humanoid Robots Show Progress on Active Factory Floors with Gemini Robotics 2.5 and New Platforms](articles/2026-11-13-humanoid-factory-progress.md)
 - [OpenAI Launches ChatGPT Wallet: AI Agents Can Now Shop and Pay Securely](articles/2026-11-13-openai-chatgpt-wallet.md)
 - [Skild AI Open-Sources Steel: A Faster Physics Engine for Scalable Robot Learning](articles/2026-11-13-skild-ai-steel-simulation.md)
 - [ASUS Gallop Humanoid Begins Real Factory Work, Targets Commercial Availability in 2028](articles/2026-11-13-asus-gallop-humanoid.md)
