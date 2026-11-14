@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [AgiBot G2 Humanoids Log 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial](articles/2026-11-14-agibot-g2-shanghai-store.md)
+- [Tesla Opens Personal Cybercab Orders at $29,990 Plus Required $299 Monthly Autonomy Subscription](articles/2026-11-14-tesla-cybercab-personal-orders.md)
+- [Google Broadens AI Hardware Portfolio with TPU 8tx and TPU 8i Max](articles/2026-11-14-google-tpu-8tx-8imax.md)
 - [NVIDIA GR00T 2: World-Action Models That Learn Robot Skills from Human Video](articles/2026-11-13-nvidia-gr00t-2.md)
 - [Wing Launches Free and Paid Walmart Drone Deliveries in Memphis Metro](articles/2026-11-13-wing-walmart-memphis-drones.md)
 - [Chinese Hotel Robot Completes Full Laundry Cycle in 18.6 Seconds](articles/2026-11-13-chinese-hotel-laundry-robot.md)
