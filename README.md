@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [OpenAI Launches ChatGPT Wallet: AI Agents Can Now Shop and Pay Securely](articles/2026-11-13-openai-chatgpt-wallet.md)
+- [Skild AI Open-Sources Steel: A Faster Physics Engine for Scalable Robot Learning](articles/2026-11-13-skild-ai-steel-simulation.md)
+- [ASUS Gallop Humanoid Begins Real Factory Work, Targets Commercial Availability in 2028](articles/2026-11-13-asus-gallop-humanoid.md)
 - [Google’s Gemini 4 Hydrogen: The Fast Execution Model for Agentic Workflows](articles/2026-11-13-gemini-4-hydrogen.md)
 - [Gemini Robotics 2.5 Achieves 96% Success on Mercedes-Benz Production Lines](articles/2026-11-13-gemini-robotics-2-5.md)
 - [OpenAI Disbands Standalone Robotics Team, Shifts to General-Purpose Models](articles/2026-11-13-openai-robotics-shift.md)
