@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [OpenAI Launches ChatGPT Wallet: AI Agents Gain Secure Payment Powers](articles/2026-11-14-chatgpt-wallet-agentic-commerce.md)
+- [Google Releases Gemini 4 Hydrogen: The Fast Daily Driver for Agentic Coding and Workflows](articles/2026-11-14-gemini-4-hydrogen-agentic-coding.md)
+- [Scaling Physical AI: Funding, Deployments, and New Use Cases Drive Humanoid and Robotics Progress](articles/2026-11-14-robotics-funding-deployments-roundup.md)
 - [NEURA Robotics Partners with E.ON and enviaM to Deploy Humanoid Robots on Power Grids](articles/2026-11-14-neura-eon-grid-humanoids.md)
 - [Perplexity Teammates Bring Persistent AI Agents to the Mac App for Max Subscribers](articles/2026-11-14-perplexity-teammates-mac.md)
 - [BYD Demonstrates Robotic Flash Charging Arm That Automatically Plugs In EVs at Up to 1,000 kW](articles/2026-11-14-byd-robotic-ev-charger.md)
@@ -36,4 +39,4 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## About
 
-Content generated for tracking daily mech (mechanical, AI, and robotics) advancements.
+Content generated for tracking daily mech (mechanical, AI, and robotics) advancements. Articles target approximately 700–1000 words, include Pixabay images, and list sources at the end.
