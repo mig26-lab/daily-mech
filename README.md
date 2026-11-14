@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [ChatGPT Wallet: OpenAI Brings Secure Agentic Transactions to the Mainstream](articles/2026-11-14-chatgpt-wallet-secure-agentic-transactions.md)
+- [Gemini Robotics 2.5: DeepMind Delivers Measurable Gains on the Factory Floor](articles/2026-11-14-gemini-robotics-25-real-world-factory-success.md)
+- [AMD Instinct MI450X and MI455X: New Claims of Inference Leadership Against Nvidia](articles/2026-11-14-amd-mi450x-mi455x-inference-challenge.md)
 - [ChatGPT Wallet: How OpenAI Is Enabling Secure Agentic Payments Without Exposing Card Details](articles/2026-11-14-chatgpt-wallet-agentic-payments-deep-dive.md)
 - [Nonprofits Sue Frontier AI Labs to Freeze Development of More Capable Systems](articles/2026-11-14-ai-development-freeze-lawsuit-analysis.md)
 - [OpenAI Folds Robotics Team Into Core Research as General Models Begin Controlling Robots](articles/2026-11-14-openai-robotics-general-models-and-optimus-context.md)
