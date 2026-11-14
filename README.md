@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Google’s Antigravity /teamwork Multi-Agent Systems Formalize Landmark Mathematical Proofs](articles/2026-11-14-google-antigravity-math-formalization.md)
+- [OpenAI Disbands Standalone Robotics Team, Betting General Models Can Directly Control Robots](articles/2026-11-14-openai-robotics-general-models-pivot.md)
+- [Humanoid Robotics Scales: Major Funding, Logistics Commitments, and Factory Trials in November 2026](articles/2026-11-14-humanoid-scaling-funding-deployments.md)
 - [XPENG Eyes UK Launch for Iron Humanoid Robot and Robotaxi Services as Part of Physical AI Push](articles/2026-11-14-xpeng-iron-uk-expansion.md)
 - [Cocobot: Kerala Startup's Tree-Climbing Robot Targets Commercial Launch for Coconut Harvesting in 2027](articles/2026-11-14-cocobot-coconut-harvesting.md)
 - [Agentic Robotics: AI Agents Writing, Testing, and Refining Robot Programs Mark a Paradigm Shift](articles/2026-11-14-agentic-robotics-paradigm-shift.md)
