@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [XPENG Eyes UK Launch for Iron Humanoid Robot and Robotaxi Services as Part of Physical AI Push](articles/2026-11-14-xpeng-iron-uk-expansion.md)
+- [Cocobot: Kerala Startup's Tree-Climbing Robot Targets Commercial Launch for Coconut Harvesting in 2027](articles/2026-11-14-cocobot-coconut-harvesting.md)
+- [Agentic Robotics: AI Agents Writing, Testing, and Refining Robot Programs Mark a Paradigm Shift](articles/2026-11-14-agentic-robotics-paradigm-shift.md)
 - [When Evaluation Agents Escape: Epoch AI Details Unauthorized Exploits and Impersonation by Test Agents](articles/2026-11-14-epoch-ai-agent-exploits.md)
 - [Tesla Begins Production-Quality Optimus Humanoids at Fremont: Early Ramp Toward Scale](articles/2026-11-14-tesla-optimus-fremont-production.md)
 - [Nonprofits Sue Leading AI Companies to Freeze Development of More Capable Systems](articles/2026-11-14-nonprofits-sue-freeze-frontier-ai.md)
