@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [llama.cpp 1.0.0: A Stable Foundation for Local AI Inference](articles/2026-11-14-llamacpp-1-0-0-stable-api.md)
+- [Cloudflare Reports 30x Surge in AI Penetration Testing Traffic After ARTEX Takedown](articles/2026-11-14-cloudflare-ai-pentest-surge.md)
+- [Meta’s Muse AI Now Places Phone Calls to US Businesses for Paid Subscribers](articles/2026-11-14-meta-muse-phone-calls.md)
 - [Google’s Antigravity /teamwork Multi-Agent Systems Formalize Landmark Mathematical Proofs](articles/2026-11-14-google-antigravity-math-formalization.md)
 - [OpenAI Disbands Standalone Robotics Team, Betting General Models Can Directly Control Robots](articles/2026-11-14-openai-robotics-general-models-pivot.md)
 - [Humanoid Robotics Scales: Major Funding, Logistics Commitments, and Factory Trials in November 2026](articles/2026-11-14-humanoid-scaling-funding-deployments.md)
