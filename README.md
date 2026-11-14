@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [NEURA Robotics Partners with E.ON and enviaM to Deploy Humanoid Robots on Power Grids](articles/2026-11-14-neura-eon-grid-humanoids.md)
+- [Perplexity Teammates Bring Persistent AI Agents to the Mac App for Max Subscribers](articles/2026-11-14-perplexity-teammates-mac.md)
+- [BYD Demonstrates Robotic Flash Charging Arm That Automatically Plugs In EVs at Up to 1,000 kW](articles/2026-11-14-byd-robotic-ev-charger.md)
 - [GENTO Unveils 21-Degree-of-Freedom Dexterous Hand Used with NVIDIA GR00T 2](articles/2026-11-14-gento-dexterous-hand-gr00t.md)
 - [Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation](articles/2026-11-14-agile-robots-series-f.md)
 - [GXO Logistics Signs Letter of Intent for Up to 1,000 Apptronik Apollo Humanoids](articles/2026-11-14-gxo-apptronik-1000-apollo.md)
