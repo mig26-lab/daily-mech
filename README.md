@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [GENTO Unveils 21-Degree-of-Freedom Dexterous Hand Used with NVIDIA GR00T 2](articles/2026-11-14-gento-dexterous-hand-gr00t.md)
+- [Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation](articles/2026-11-14-agile-robots-series-f.md)
+- [GXO Logistics Signs Letter of Intent for Up to 1,000 Apptronik Apollo Humanoids](articles/2026-11-14-gxo-apptronik-1000-apollo.md)
 - [AgiBot G2 Humanoids Log 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial](articles/2026-11-14-agibot-g2-shanghai-store.md)
 - [Tesla Opens Personal Cybercab Orders at $29,990 Plus Required $299 Monthly Autonomy Subscription](articles/2026-11-14-tesla-cybercab-personal-orders.md)
 - [Google Broadens AI Hardware Portfolio with TPU 8tx and TPU 8i Max](articles/2026-11-14-google-tpu-8tx-8imax.md)
