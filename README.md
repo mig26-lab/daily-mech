@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Runway Releases Praxis-1: Open-Weight World Action Model for Robotics](articles/2026-11-13-runway-praxis-1-open-weights.md)
+- [Anthropic’s Mythos Ports Claude to AMD GPUs in Three Days](articles/2026-11-13-anthropic-mythos-amd-port.md)
+- [OpenAI Acquires Odessia: AI Travel Agents Move Toward Full Autonomy](articles/2026-11-13-openai-odessia-acquisition.md)
 - [LangChain Raises $300 Million at $3 Billion Valuation to Expand Agent Management Platform](articles/2026-11-13-langchain-series-c.md)
 - [SpaceX Outlines More Than $74 Billion in AI Supercomputing Campuses Across Texas and Arizona](articles/2026-11-13-spacex-ai-campuses.md)
 - [Humanoid Robots Show Progress on Active Factory Floors with Gemini Robotics 2.5 and New Platforms](articles/2026-11-13-humanoid-factory-progress.md)
