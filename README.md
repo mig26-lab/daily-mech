@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [NVIDIA GR00T 2: World-Action Models That Learn Robot Skills from Human Video](articles/2026-11-13-nvidia-gr00t-2.md)
+- [Wing Launches Free and Paid Walmart Drone Deliveries in Memphis Metro](articles/2026-11-13-wing-walmart-memphis-drones.md)
+- [Chinese Hotel Robot Completes Full Laundry Cycle in 18.6 Seconds](articles/2026-11-13-chinese-hotel-laundry-robot.md)
 - [Runway Releases Praxis-1: Open-Weight World Action Model for Robotics](articles/2026-11-13-runway-praxis-1-open-weights.md)
 - [Anthropic’s Mythos Ports Claude to AMD GPUs in Three Days](articles/2026-11-13-anthropic-mythos-amd-port.md)
 - [OpenAI Acquires Odessia: AI Travel Agents Move Toward Full Autonomy](articles/2026-11-13-openai-odessia-acquisition.md)
