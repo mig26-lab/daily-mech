@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Anthropic IPO Roadshow Targets Up to $1.4 Trillion Valuation Ahead of November 19 Nasdaq Debut](articles/2026-11-15-anthropic-ipo-roadshow-1-4t.md)
+- [NVIDIA Leadership Transition: Colette Kress Steps In as Interim CEO After Jensen Huang Resigns](articles/2026-11-15-nvidia-leadership-transition-ai-hardware.md)
+- [Robotics Momentum Accelerates: Gemini Robotics 2.5, Tesla Optimus Plans, and New Industrial Deployments](articles/2026-11-15-robotics-deployments-gemini-optimus-momentum.md)
 - [ChatGPT Wallet: OpenAI Brings Secure Agentic Transactions to the Mainstream](articles/2026-11-14-chatgpt-wallet-secure-agentic-transactions.md)
 - [Gemini Robotics 2.5: DeepMind Delivers Measurable Gains on the Factory Floor](articles/2026-11-14-gemini-robotics-25-real-world-factory-success.md)
 - [AMD Instinct MI450X and MI455X: New Claims of Inference Leadership Against Nvidia](articles/2026-11-14-amd-mi450x-mi455x-inference-challenge.md)
