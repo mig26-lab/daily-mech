@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Claude Meetings Beta: Anthropic Brings AI Participants into Live Google Meet Calls](articles/2026-11-15-claude-meetings-google-meet-beta.md)
+- [MiniMax H3-Image: Open-Weight Model Delivers Native 4K Generation in Seconds](articles/2026-11-15-minimax-h3-image-open-weights-4k.md)
+- [Zipline Secures $1.5 Billion to Scale Nationwide Drone Delivery Network](articles/2026-11-15-zipline-drone-delivery-funding-expansion.md)
 - [Anthropic IPO Roadshow Targets Up to $1.4 Trillion Valuation Ahead of November 19 Nasdaq Debut](articles/2026-11-15-anthropic-ipo-roadshow-1-4t.md)
 - [NVIDIA Leadership Transition: Colette Kress Steps In as Interim CEO After Jensen Huang Resigns](articles/2026-11-15-nvidia-leadership-transition-ai-hardware.md)
 - [Robotics Momentum Accelerates: Gemini Robotics 2.5, Tesla Optimus Plans, and New Industrial Deployments](articles/2026-11-15-robotics-deployments-gemini-optimus-momentum.md)
