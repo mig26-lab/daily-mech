@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Gemini Robotics 2.5: Accelerating Real-World Dexterity and Reliability on the Factory Floor](articles/2026-11-15-gemini-robotics-25-factory-dexterity.md)
+- [South Korea Tops Global Robot Density While Investing Heavily in Humanoid Components](articles/2026-11-15-south-korea-robot-density-humanoid-investment.md)
+- [OpenAI Reorganizes Robotics Efforts as General Models Demonstrate Direct Robot Control](articles/2026-11-15-openai-robotics-reorganization-general-models.md)
 - [Embodied AI's AIR: The Wheeled Humanoid That Learns Factory Tasks On the Job](articles/2026-11-15-embodied-ai-air-on-job-factory-learning.md)
 - [LingBot-Touch: Robbyant Open-Sources a Unified Tactile Model for Dexterous Robot Hands](articles/2026-11-15-lingbot-touch-unified-tactile-model.md)
 - [NVIDIA Leadership Transition: Continuity Under Colette Kress as Interim CEO Amid AI and Robotics Momentum](articles/2026-11-15-nvidia-interim-leadership-continuity.md)
