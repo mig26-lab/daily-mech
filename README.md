@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Embodied AI's AIR: The Wheeled Humanoid That Learns Factory Tasks On the Job](articles/2026-11-15-embodied-ai-air-on-job-factory-learning.md)
+- [LingBot-Touch: Robbyant Open-Sources a Unified Tactile Model for Dexterous Robot Hands](articles/2026-11-15-lingbot-touch-unified-tactile-model.md)
+- [NVIDIA Leadership Transition: Continuity Under Colette Kress as Interim CEO Amid AI and Robotics Momentum](articles/2026-11-15-nvidia-interim-leadership-continuity.md)
 - [Claude Meetings Beta: Anthropic Brings AI Participants into Live Google Meet Calls](articles/2026-11-15-claude-meetings-google-meet-beta.md)
 - [MiniMax H3-Image: Open-Weight Model Delivers Native 4K Generation in Seconds](articles/2026-11-15-minimax-h3-image-open-weights-4k.md)
 - [Zipline Secures $1.5 Billion to Scale Nationwide Drone Delivery Network](articles/2026-11-15-zipline-drone-delivery-funding-expansion.md)
