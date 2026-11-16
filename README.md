@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [ROBOTERA Opens Commercial Orders for XHAND 1 Pro-U Dexterous Hand Featured in NVIDIA GR00T 2](articles/2026-11-16-robotera-xhand-1-pro-u.md)
+- [SMART and NUS Pioneer Neural-Inspired Controller for Adaptive Soft Robots](articles/2026-11-16-smart-nus-soft-robots-neural-control.md)
+- [Alibaba’s Qwen4-Max Intensifies Price Competition with Pay-as-You-Go Launch and Major Efficiency Gains](articles/2026-11-16-alibaba-qwen4-max-efficiency-update.md)
 - [Gemini Robotics 2.5: Accelerating Real-World Dexterity and Reliability on the Factory Floor](articles/2026-11-15-gemini-robotics-25-factory-dexterity.md)
 - [South Korea Tops Global Robot Density While Investing Heavily in Humanoid Components](articles/2026-11-15-south-korea-robot-density-humanoid-investment.md)
 - [OpenAI Reorganizes Robotics Efforts as General Models Demonstrate Direct Robot Control](articles/2026-11-15-openai-robotics-reorganization-general-models.md)
