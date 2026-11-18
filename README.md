@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Google Launches Gemini 4 Neon and Makes Its Tasks Agent Free in Six Countries](articles/2026-11-18-google-gemini-4-neon-free-tasks.md)
+- [Java4Shell: An AI-Assisted Researcher Finds a Critical OpenJDK Flaw That Reaches Jenkins, Jira and Keycloak](articles/2026-11-18-java4shell-openjdk-ai-found-vulnerability.md)
+- [Genesis AI Raises $500 Million at a $3.5 Billion Valuation to Put Its Headless Eno Robot to Work](articles/2026-11-18-genesis-ai-500m-eno-dexterous-robot.md)
 - [OpenAI Launches GPT-6.2 Astra and Sol With a 20% Price Cut, a New Self-Improvement Risk Rating and Mixed Early Reviews](articles/2026-11-18-openai-gpt-6-2-astra-sol-launch.md)
 - [Boston Dynamics Takes Spot Global Across GlobalFoundries Fabs and Brings Atlas Into Chipmaking](articles/2026-11-18-boston-dynamics-globalfoundries-spot-atlas-fabs.md)
 - [Microsoft Unveils MAI Code 2 and Code 2 Flash at Ignite, Targeting Everyday Coding at a Fraction of Rivals' Cost](articles/2026-11-18-microsoft-mai-code-2-flash-ignite.md)
