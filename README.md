@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [OpenAI Launches GPT-6.2 Astra and Sol With a 20% Price Cut, a New Self-Improvement Risk Rating and Mixed Early Reviews](articles/2026-11-18-openai-gpt-6-2-astra-sol-launch.md)
+- [Boston Dynamics Takes Spot Global Across GlobalFoundries Fabs and Brings Atlas Into Chipmaking](articles/2026-11-18-boston-dynamics-globalfoundries-spot-atlas-fabs.md)
+- [Microsoft Unveils MAI Code 2 and Code 2 Flash at Ignite, Targeting Everyday Coding at a Fraction of Rivals' Cost](articles/2026-11-18-microsoft-mai-code-2-flash-ignite.md)
 - [ROBOTERA Opens Commercial Orders for XHAND 1 Pro-U Dexterous Hand Featured in NVIDIA GR00T 2](articles/2026-11-16-robotera-xhand-1-pro-u.md)
 - [SMART and NUS Pioneer Neural-Inspired Controller for Adaptive Soft Robots](articles/2026-11-16-smart-nus-soft-robots-neural-control.md)
 - [Alibaba’s Qwen4-Max Intensifies Price Competition with Pay-as-You-Go Launch and Major Efficiency Gains](articles/2026-11-16-alibaba-qwen4-max-efficiency-update.md)
