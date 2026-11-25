@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [XPENG Debuts IRON Humanoid and Turing Physical AI Architecture, Betting That Robot "Brains and Bodies" Must Evolve Together](articles/2026-11-25-xpeng-iron-humanoid-turing-physical-ai-vla-3.md)
+- ["Obtain Shell Access": Amazon Says Hackers' Cairn AI Agents Found and Exploited a Zero-Day in 11 Minutes](articles/2026-11-25-cairn-ai-agents-monai-label-zero-day.md)
+- [New York Signs a Five-Year Ban on AI Chatbot Toys, but It Won't Arrive Before the Holidays](articles/2026-11-25-new-york-five-year-ban-ai-chatbot-toys.md)
 - [Google Launches Gemini 4 Neon and Makes Its Tasks Agent Free in Six Countries](articles/2026-11-18-google-gemini-4-neon-free-tasks.md)
 - [Java4Shell: An AI-Assisted Researcher Finds a Critical OpenJDK Flaw That Reaches Jenkins, Jira and Keycloak](articles/2026-11-18-java4shell-openjdk-ai-found-vulnerability.md)
 - [Genesis AI Raises $500 Million at a $3.5 Billion Valuation to Put Its Headless Eno Robot to Work](articles/2026-11-18-genesis-ai-500m-eno-dexterous-robot.md)
