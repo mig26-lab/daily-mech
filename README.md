@@ -6,6 +6,9 @@ Articles are updated regularly based on recent releases and news. Each includes 
 
 ## Latest Articles
 
+- [Meta's Muse AI Agent Arrives in the UK, With Retail Partners Signed Up and Regulators Watching Closely](articles/2026-11-25-meta-muse-ai-agent-uk-launch-regulators.md)
+- [Nvidia Reinstates Jensen Huang as CEO After 11 Days, and Now the Board Faces the Questions](articles/2026-11-25-nvidia-reinstates-jensen-huang-ceo.md)
+- [Russia Launches Teledroid, a Humanoid Robot Built to Take Over Risky Spacewalk Chores on the ISS](articles/2026-11-25-roscosmos-teledroid-humanoid-iss-launch.md)
 - [XPENG Debuts IRON Humanoid and Turing Physical AI Architecture, Betting That Robot "Brains and Bodies" Must Evolve Together](articles/2026-11-25-xpeng-iron-humanoid-turing-physical-ai-vla-3.md)
 - ["Obtain Shell Access": Amazon Says Hackers' Cairn AI Agents Found and Exploited a Zero-Day in 11 Minutes](articles/2026-11-25-cairn-ai-agents-monai-label-zero-day.md)
 - [New York Signs a Five-Year Ban on AI Chatbot Toys, but It Won't Arrive Before the Holidays](articles/2026-11-25-new-york-five-year-ban-ai-chatbot-toys.md)
